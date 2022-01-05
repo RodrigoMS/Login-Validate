@@ -1,4 +1,10 @@
-# login-validate
+# Página de login responsivo
+
+<br>
+
+<p align="center">
+  <img alt="methods" src="github/responsive_login.png" width="100%">
+</p>
 
 ## Project setup
 ```
